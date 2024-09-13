@@ -1,0 +1,4 @@
+detector:
+  structured-files:
+    - text/x-sql
+    - text/csv
